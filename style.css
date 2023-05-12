@@ -1,0 +1,53 @@
+/* Style for the header and navigation */
+header {
+    background-color: #946363;
+    color: #fbdddd;
+    padding: 20px;
+    text-align: center;
+  }
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  nav li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  nav a {
+    color: #fbdddd;
+    text-decoration: none;
+  }
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+   main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
